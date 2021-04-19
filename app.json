@@ -7,8 +7,8 @@
         "searcher",
         "download"
     ],
-    "website": "https://github.com/Anandpskerala/SubtitlesBot",
-    "repository": "https://github.com/Anandpskerala/SubtitlesBot",
+    "website": "https://github.com/rajaganapathy2000/SubtitlesBott",
+    "repository": "https://github.com/rajaganapathy2000/SubtitlesBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
